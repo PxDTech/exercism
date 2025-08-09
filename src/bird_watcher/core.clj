@@ -2,7 +2,7 @@
   (:gen-class))
 
 (def last-week 
-  )
+  [0 2 5 3 7 8 4])
 
 (defn today [birds]
   )
