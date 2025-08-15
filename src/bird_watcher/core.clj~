@@ -12,7 +12,7 @@
   )
 
 (defn inc-bird [birds]
-  )
+  (inc (last birds-per-day)))
 
 (defn day-without-birds? [birds]
   )
